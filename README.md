@@ -1,5 +1,7 @@
 # GalagaV3
 
+
+
 Galagav3게임 프로젝트
 
 
@@ -9,6 +11,7 @@ Galagav3게임 프로젝트
 
 
 진행된 세팅 환경
+
 
 PC 환경 
 HW : Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz, RAM 12.0GB
