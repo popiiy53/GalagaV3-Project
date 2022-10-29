@@ -4,7 +4,6 @@ Galagav3게임 프로젝트
 
 
 
-https://user-images.githubusercontent.com/107553545/198803070-b319e971-d645-4b43-ba96-331c1012b3d2.mp4
 
 
 
