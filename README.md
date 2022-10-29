@@ -4,7 +4,7 @@ Galagav3게임 프로젝트
 
 
 
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/107553545/198807298-a9a8f5bf-cd5e-4947-b421-2f41c62fff1d.gif)
 
 
 
