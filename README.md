@@ -3,6 +3,12 @@
 Galagav3게임 프로젝트
 
 
+
+https://user-images.githubusercontent.com/107553545/198803070-b319e971-d645-4b43-ba96-331c1012b3d2.mp4
+
+
+
+
 진행된 세팅 환경
 
 PC 환경 
@@ -29,6 +35,9 @@ SDL2_ttf-2.0.15\x86_64-w64-mingw32\lib
 Linker settings
 mingw32
 SDL2main
+
+
+
 SDL2.dll
 SDL2_image
 SDL2_mixer
