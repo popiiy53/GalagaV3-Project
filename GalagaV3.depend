@@ -1,0 +1,718 @@
+# depslib dependency file v1.0
+1611702932 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\entity\actor.cpp
+	<cmath>
+	"infra/Util.hpp"
+	"entity/Actor.hpp"
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\infra\util.hpp
+	<string>
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\entity\actor.hpp
+	"infra/Vec2.hpp"
+	"infra/Collider.hpp"
+	"infra/Path.hpp"
+	"infra/Resources.hpp"
+	"infra/media_layer/Renderer.hpp"
+	"infra/Entity.hpp"
+	"scene/Stage.hpp"
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\infra\vec2.hpp
+	<iostream>
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\infra\collider.hpp
+	"infra/Vec2.hpp"
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\infra\path.hpp
+	<vector>
+	"infra/Vec2.hpp"
+	"infra/media_layer/Renderer.hpp"
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\infra\media_layer\renderer.hpp
+	<string>
+	"infra/Vec2.hpp"
+	"infra/Resources.hpp"
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\infra\resources.hpp
+
+1611287133 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\infra\entity.hpp
+	<functional>
+	"infra/Util.hpp"
+	"infra/Collider.hpp"
+	"infra/Message.hpp"
+	"infra/media_layer/Renderer.hpp"
+	"infra/Scene.hpp"
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\infra\message.hpp
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\infra\scene.hpp
+	"infra/media_layer/Renderer.hpp"
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\scene\stage.hpp
+	<memory>
+	<list>
+	<iterator>
+	"infra/Path.hpp"
+	"infra/Hud.hpp"
+	"infra/Scene.hpp"
+	"infra/Entity.hpp"
+
+1611288302 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\infra\hud.hpp
+	"infra/media_layer/Renderer.hpp"
+	"infra/StageSymbols.hpp"
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\infra\stagesymbols.hpp
+	"infra/media_layer/Renderer.hpp"
+	"infra/Resources.hpp"
+
+1611703011 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\entity\enemy.cpp
+	<cmath>
+	"infra/Keyboard.hpp"
+	"entity/GameController.hpp"
+	"entity/ScorePoint.hpp"
+	"entity/Enemy.hpp"
+	"entity/EnemyBeam.hpp"
+	"entity/EnemyExplosion.hpp"
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\infra\keyboard.hpp
+	"infra/Resources.hpp"
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\entity\gamecontroller.hpp
+	<set>
+	"infra/Collider.hpp"
+	"infra/Entity.hpp"
+	"scene/Stage.hpp"
+	"entity/Fighter.hpp"
+	"entity/FighterBullet.hpp"
+	"entity/EnemyBullet.hpp"
+	"entity/EnemyBeam.hpp"
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\entity\fighter.hpp
+	"entity/Actor.hpp"
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\entity\fighterbullet.hpp
+	"scene/Stage.hpp"
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\entity\enemybullet.hpp
+	"scene/Stage.hpp"
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\entity\enemybeam.hpp
+	"scene/Stage.hpp"
+	"entity/Enemy.hpp"
+	"entity/Fighter.hpp"
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\entity\enemy.hpp
+	<vector>
+	<map>
+	"entity/Actor.hpp"
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\entity\scorepoint.hpp
+	"scene/Stage.hpp"
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\entity\enemyexplosion.hpp
+	"scene/Stage.hpp"
+
+1559548674 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\entity\enemybeam.cpp
+	<iostream>
+	"infra/Util.hpp"
+	"entity/GameController.hpp"
+	"entity/EnemyBeam.hpp"
+	"entity/Fighter.hpp"
+	"entity/Enemy.hpp"
+
+1559548674 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\entity\enemybullet.cpp
+	<iostream>
+	"infra/Util.hpp"
+	"entity/GameController.hpp"
+	"entity/EnemyBullet.hpp"
+	"entity/Fighter.hpp"
+
+1559548674 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\entity\enemyexplosion.cpp
+	<iostream>
+	"entity/EnemyExplosion.hpp"
+
+1611299656 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\entity\fighter.cpp
+	<cmath>
+	"infra/Util.hpp"
+	"infra/Path.hpp"
+	"infra/Keyboard.hpp"
+	"infra/media_layer/AudioPlayer.hpp"
+	"entity/GameController.hpp"
+	"entity/Fighter.hpp"
+	"entity/FighterBullet.hpp"
+	"entity/FighterExplosion.hpp"
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\infra\media_layer\audioplayer.hpp
+	"infra/Resources.hpp"
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\entity\fighterexplosion.hpp
+	"scene/Stage.hpp"
+
+1559548674 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\entity\fighterbullet.cpp
+	<iostream>
+	"entity/GameController.hpp"
+	"entity/FighterBullet.hpp"
+
+1559548674 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\entity\fighterexplosion.cpp
+	<iostream>
+	"entity/FighterExplosion.hpp"
+
+1611288472 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\entity\gamecontroller.cpp
+	"infra/Util.hpp"
+	"infra/Keyboard.hpp"
+	"infra/media_layer/AudioPlayer.hpp"
+	"infra/media_layer/Game.hpp"
+	"infra/SceneManager.hpp"
+	"entity/ScorePoint.hpp"
+	"entity/GameController.hpp"
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\infra\media_layer\game.hpp
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\infra\scenemanager.hpp
+	<memory>
+	<map>
+	"infra/media_layer/Renderer.hpp"
+	"infra/StarsBackground.hpp"
+	"infra/Hud.hpp"
+	"infra/Scene.hpp"
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\infra\starsbackground.hpp
+	"infra/Vec2.hpp"
+	"infra/media_layer/Renderer.hpp"
+
+1559548674 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\entity\scorepoint.cpp
+	"entity/ScorePoint.hpp"
+
+1559548674 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\infra\collider.cpp
+	"infra/Collider.hpp"
+
+1611288302 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\infra\hud.cpp
+	<cmath>
+	"infra/Util.hpp"
+	"infra/Resources.hpp"
+	"infra/media_layer/AudioPlayer.hpp"
+	"infra/Hud.hpp"
+
+1559548674 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\infra\keyboard.cpp
+	<map>
+	"infra/Keyboard.hpp"
+
+1559548674 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\infra\path.cpp
+	<algorithm>
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	"infra/Util.hpp"
+	"infra/Path.hpp"
+
+1559548674 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\infra\scenemanager.cpp
+	"infra/SceneManager.hpp"
+	"scene/Initializing.hpp"
+	"scene/OlPresents.hpp"
+	"scene/Title.hpp"
+	"scene/Stage.hpp"
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\scene\initializing.hpp
+	"infra/Path.hpp"
+	"infra/Scene.hpp"
+
+1559548674 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\scene\olpresents.hpp
+	"infra/Path.hpp"
+	"infra/Scene.hpp"
+
+1620817649 c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\include\scene\title.hpp
+	"infra/Vec2.hpp"
+	"infra/Scene.hpp"
+
+1611300082 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\infra\sdl2_impl\audioplayer.cpp
+	<map>
+	<memory>
+	<SDL_mixer.h>
+	"infra/Util.hpp"
+	"infra/Resources.hpp"
+	"infra/media_layer/AudioPlayer.hpp"
+
+1540998018 c:\develop\sdl2_mixer-2.0.4\x86_64-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1608572889 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1608572889 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1608572889 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1608572889 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1611283696 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\infra\sdl2_impl\game.cpp
+	<chrono>
+	<thread>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"infra/media_layer/AudioPlayer.hpp"
+	"infra/Util.hpp"
+	"infra/Keyboard.hpp"
+	"infra/media_layer/AudioPlayer.hpp"
+	"infra/media_layer/Game.hpp"
+	"infra/media_layer/Renderer.hpp"
+	"infra/StarsBackground.hpp"
+	"infra/SceneManager.hpp"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1608572889 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572889 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608572888 c:\develop\sdl2-2.0.14\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1561870398 c:\develop\sdl2_image-2.0.5\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547322290 c:\develop\sdl2_ttf-2.0.15\x86_64-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1611232176 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\infra\sdl2_impl\renderer.cpp
+	<map>
+	<memory>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"infra/Util.hpp"
+	"infra/Resources.hpp"
+	"infra/media_layer/Renderer.hpp"
+
+1559548674 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\infra\stagesymbols.cpp
+	"infra/Util.hpp"
+	"infra/Hud.hpp"
+	"infra/media_layer/AudioPlayer.hpp"
+	"infra/StageSymbols.hpp"
+
+1559548674 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\infra\starsbackground.cpp
+	<iostream>
+	<cmath>
+	"infra/Util.hpp"
+	"infra/StarsBackground.hpp"
+
+1559548674 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\infra\util.cpp
+	<iostream>
+	<random>
+	<ctime>
+	"infra/Util.hpp"
+
+1559548674 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\infra\vec2.cpp
+	<cmath>
+	"infra/Vec2.hpp"
+
+1559548674 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\scene\initializing.cpp
+	<iostream>
+	"infra/Util.hpp"
+	"infra/Vec2.hpp"
+	"infra/Collider.hpp"
+	"infra/Keyboard.hpp"
+	"infra/SceneManager.hpp"
+	"scene/Initializing.hpp"
+
+1559548674 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\scene\olpresents.cpp
+	<iostream>
+	<algorithm>
+	"infra/Util.hpp"
+	"infra/Vec2.hpp"
+	"infra/Keyboard.hpp"
+	"infra/media_layer/AudioPlayer.hpp"
+	"infra/SceneManager.hpp"
+	"scene/OlPresents.hpp"
+
+1559548674 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\scene\stage.cpp
+	<iostream>
+	<algorithm>
+	<iterator>
+	"infra/Util.hpp"
+	"infra/Vec2.hpp"
+	"infra/Keyboard.hpp"
+	"infra/media_layer/AudioPlayer.hpp"
+	"infra/SceneManager.hpp"
+	"scene/Stage.hpp"
+	"entity/GameController.hpp"
+	"entity/ScorePoint.hpp"
+	"entity/Fighter.hpp"
+	"entity/FighterExplosion.hpp"
+	"entity/Enemy.hpp"
+	"entity/EnemyBeam.hpp"
+	"entity/EnemyExplosion.hpp"
+
+1620817649 source:c:\users\eyeli\onedrive\πŸ≈¡ »≠∏È\galagav3\src\scene\title.cpp
+	<iostream>
+	<algorithm>
+	"infra/Util.hpp"
+	"infra/Vec2.hpp"
+	"infra/media_layer/AudioPlayer.hpp"
+	"infra/Keyboard.hpp"
+	"infra/SceneManager.hpp"
+	"scene/Title.hpp"
+
